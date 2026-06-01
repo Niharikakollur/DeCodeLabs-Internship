@@ -28,9 +28,8 @@ Titanic Dataset
 
 ## Files
 
-* `dataset.csv` - Original dataset
 * `cleaned_dataset.csv` - Cleaned dataset
-* `Internship_1.ipynb` - Jupyter Notebook containing the project code
+* `Data_Cleaning_Titanic_Dataset.ipynb` - Jupyter Notebook containing the project code
 
 ## Learning Outcomes
 
